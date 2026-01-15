@@ -1,0 +1,12 @@
+*.o
+*.a
+*.so
+parser
+.vscode/
+.idea/
+*.dSYM/
+vgcore.*
+core
+*.swp
+*.swo
+*~
